@@ -1,0 +1,54 @@
+@font-face{
+    font-family: Abel;
+    src:url(../fonts/Abel/Abel-Regular.ttf) ;
+}
+
+@font-face{
+    font-family: Allison;
+    src:url(../fonts/Allison/Allison-Regular.ttf) ;
+}
+
+@font-face{
+    font-family: Poppins;
+    src:url(../fonts/Poppins/Poppins-Regular.ttf) ;
+}
+
+@font-face{
+    font-family: PottaOne;
+    src:url(../fonts/Potta_One/PottaOne-Regular.ttf) ;
+}
+
+@font-face{
+    font-family: Ubuntu;
+    src:url(../fonts/Ubuntu/Ubuntu-Regular.ttf) ;
+}
+
+@font-face{
+    font-family: Yusei_Magic;
+    src:url(../fonts/Yusei_Magic/YuseiMagic-Regular.ttf) ;
+}
+
+@font-face {
+    font-family: JosefinSans;
+    src: url(../fonts/static/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lexend;
+    src: url(../fonts/Lexend/static/Lexend-Regular.ttf);
+}
+
+@font-face {
+    font-family: Livvic;
+    src: url(../fonts/Livvic/Livvic-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lexend-Light;
+    src: url(../fonts/Lexend/static/Lexend-Light.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat/Montserrat-Thin.ttf);
+}
